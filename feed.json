@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "main",
+    "description": "",
+    "home_page_url": "https://realjustfree.github.io",
+    "feed_url": "https://realjustfree.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ephraim_zuyev"
+    },
+    "items": [
+        {
+            "id": "https://realjustfree.github.io/test.html",
+            "url": "https://realjustfree.github.io/test.html",
+            "title": "test",
+            "summary": "test 2024-04-01 contents #block",
+            "content_html": "\n  <p>\n    test 2024-04-01\n  </p>\n\n  <p>\n    contents\n  </p>\n\n  <p>\n    #block\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "ephraim_zuyev"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-01T15:00:54+09:00",
+            "date_modified": "2024-04-01T15:01:12+09:00"
+        }
+    ]
+}
