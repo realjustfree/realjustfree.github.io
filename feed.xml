@@ -1,46 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>main</title>
+    <title>blog_main</title>
     <link href="https://realjustfree.github.io/feed.xml" rel="self" />
     <link href="https://realjustfree.github.io" />
-    <updated>2024-04-01T15:01:12+09:00</updated>
+    <updated>2024-04-08T10:54:44+09:00</updated>
     <author>
         <name>ephraim_zuyev</name>
     </author>
     <id>https://realjustfree.github.io</id>
 
     <entry>
-        <title>test</title>
+        <title>test </title>
         <author>
             <name>ephraim_zuyev</name>
         </author>
         <link href="https://realjustfree.github.io/test.html"/>
         <id>https://realjustfree.github.io/test.html</id>
 
-        <updated>2024-04-01T15:00:54+09:00</updated>
+        <updated>2024-04-08T10:54:44+09:00</updated>
             <summary>
                 <![CDATA[
-                    test 2024-04-01 contents #block
+                    test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    test 2024-04-01
-  </p>
-
-  <p>
-    contents
-  </p>
-
-  <p>
-    #block
-  </p>
-
-  <p>
-    
-  </p>
+                <p>test</p>
             ]]>
         </content>
     </entry>
